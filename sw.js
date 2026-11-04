@@ -4,7 +4,7 @@
 //   PRECACHE   这次打包生成的所有文件列表（脚本、样式、字体、图标）
 // 游戏数据存在 IndexedDB 里，和这里的缓存无关，清理缓存不会丢存档。
 
-const BUILD_ID = 'mvy0cp69';
+const BUILD_ID = 'mw13kv6b';
 const CACHE = `life-reset-rpg-${BUILD_ID}`;
 const PRECACHE = [
   "./",
